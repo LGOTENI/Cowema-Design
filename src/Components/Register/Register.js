@@ -2,7 +2,7 @@ import React from "react";
 // import { FaFacebook, FaGoogle } from "react-icons/fa/";
 import Input from "../Formulaire/Input/Input";
 import Bouton from "../Formulaire/Bouton/Bouton";
-import { Routes, Route, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 
 const Index = () => {
