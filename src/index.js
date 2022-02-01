@@ -5,6 +5,8 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Register from './Components/Register/Register'
 import Login from './Components/Login/Login'
 import './Style.css'
+import "./input.css";
+
 
 ReactDOM.render(
   <React.StrictMode>
